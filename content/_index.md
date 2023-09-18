@@ -1,7 +1,7 @@
 ---
-title: "Test de static site con Hugo + Ananke"
+title: "Test de static site con Saul + Ananke"
 
 description: "Test sitio estático."
 
-featured_image: '/images/hero-image.jpg'
+featured_image: '/images//workspaces/ejemplo-hugo/static/images/Smurfcat.jpg'
 ---
