@@ -1,7 +1,7 @@
 ---
-title: "Test de static site con Saul + Ananke"
+title: "Titulo nuevo de Saul Benede"
 
 description: "Test sitio estático."
 
-featured_image: '/images//workspaces/ejemplo-hugo/static/images/Smurfcat.jpg'
+featured_image: '/images/Smurfcat.jpg'
 ---
